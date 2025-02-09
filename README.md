@@ -97,4 +97,4 @@ This project displays real-time and historical statistics for the CKPool Bitcoin
 
 GPL-3.0 license
 
-A
+AA
